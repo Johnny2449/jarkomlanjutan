@@ -16,23 +16,11 @@
 \thanks{Identify applicable funding agency here. If none, delete this.}
 }
 
-\author{\IEEEauthorblockN{Johnny}
+\author{\IEEEauthorblockN{Johnny, Rian Sanjaya, Muhammad Riduan}
 \IEEEauthorblockA{\textit{Faculty of Information Technology} \\
 \textit{Institut Teknologi Batam}\\
 Batam, Indonesia \\
-1822004@student.iteba.ac.id}
-\and
-\IEEEauthorblockN{Rian Sanjaya}
-\IEEEauthorblockA{\textit{Faculty of Information Technology} \\
-\textit{Institut Teknologi Batam}\\
-Batam, Indonesia \\
-1822012@student.iteba.ac.id}
-\and
-\IEEEauthorblockN{Muhammad Riduan}
-\IEEEauthorblockA{\textit{Faculty of Information Technology} \\
-\textit{Institut Teknologi Batam}\\
-Batam, Indonesia \\
-1822001@student.iteba.ac.id}
+Email: \{1822004, 1822012, 1822001\}@student.iteba.ac.id}
 }
 
 \maketitle
@@ -109,9 +97,10 @@ dapat dilihat pada “Gambar. 1”.
 \end{figure}
 
 \subsection{K-Nearest Neighbors}
-\begin{itemize}
+
 Algoritme k tetangga terdekat adalah sebuah metode untuk melakukan klasifikasi terhadap objek berdasarkan data pemelajaran yang jaraknya paling dekat dengan objek tersebut. Data pemelajaran digambarkan ke ruang berdimensi banyak dengan tiap-tiap dimensi mewakili tiap ciri/fitur dari data.
- \item \emph{Euclidean Distance}\\
+
+\noindent\emph{Euclidean Distance}\\
 Untuk mendefinisikan jarak antara dua titik yaitu titik pada data training (x) dan titik pada data testing (y), maka digunakan rumus \emph{Euclidean}\cite{nurhadi2017aplikasi}, yaitu:
 
 % ini memasukkan rumus
@@ -133,7 +122,7 @@ $i$ = merepresentasikan nilai atribut
 
 $n$ = merupakan dimensi atribut.\vspace{10pt}
 
-\item \emph{City Block Distance}\\
+\noindent\emph{City Block Distance}\\
 \emph{City Block Distance} umumnya dihitung antara 2 koordinat objek yang berpasangan. Ini adalah penjumlahan dari perbedaan absolut antara 2 koordinat. \emph{City Block Distance} 2-titik a dan b dengan dimensi k dihitung secara matematis menggunakan rumus berikut ini:
 
 \begin{equation*}
@@ -141,11 +130,11 @@ d_{ij}=\sum^{k}_{i=1} | a_i-b_i |
 \label{eq2}
 \end{equation*}
 
-\item \emph{Manhattan Distance}\\
+\noindent\emph{Manhattan Distance}\\
 \emph{Manhattan Distance} merupakan salah satu pengukuran yang paling banyak digunakan meliputi penggantian perbedaan kuadrat dengan menjumlahkan perbedaan \emph{absolute} dari variabel-variabel. Fungsi ini hanya akan menjumlahkan selisih nilai x dan y dari dua buah titik.
 \vspace{10pt}
 
-\item \emph{Minkwoski Distance}\\
+\noindent\emph{Minkwoski Distance}\\
 \emph{Minkwoski Distance} adalah metrik dalam ruang vektor bernorma yang dapat dianggap sebagai generalisasi dari kedua jarak \emph{Euclidean} dan jarak \emph{Manhattan}. Jarak \emph{Minkowski} antara dua variabel X dan Y didefinisikan sebagai:
 
 \begin{equation*}
@@ -160,7 +149,7 @@ Flowchart dari proses pemodelan algoritma \emph{K-nearest neighbors} dapat dilih
 \includegraphics[width=.4\textwidth]{Gambar/gambar3.png}
 \caption{Flowchart Algoritma K-Nearest Neighbors}
 \end{figure}
-\end{itemize}
+
 
 \subsection{Algoritma SVM}
 Support Vector Machine (SVM) adalah algoritme supervised yang berupa klasifikasi dengan cara membagi data menjadi dua kelas menggunakan garis vektor yang disebut hyperplane (Octaviani, et al., 2014). Pada permasalahan yang kompleks atau permasalahan dengan parameter yang banyak, metode ini sangat baik untuk digunakan.
