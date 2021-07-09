@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.2)  9 JUL 2021 18:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.2)  9 JUL 2021 18:37
 entering extended mode
 **"d:/ITEBA/Kuliah/TK3406 Jaringan Komputer Lanjut (Reg)/rubrik penilaian/Tugas 6/Johnny2449/jarkomlanjutan/tugas 6/Tugas 6.tex"
 (d:/ITEBA/Kuliah/TK3406 Jaringan Komputer Lanjut (Reg)/rubrik penilaian/Tugas 6/Johnny2449/jarkomlanjutan/tugas 6/Tugas 6.tex
@@ -323,38 +323,21 @@ File: Gambar/gambar1.png Graphic file (type png)
 <use Gambar/gambar1.png>
 Package pdftex.def Info: Gambar/gambar1.png  used on input line 97.
 (pdftex.def)             Requested size: 206.39685pt x 182.6002pt.
-
-
-LaTeX Warning: Citation `nurhadi2017aplikasi' on page 1 undefined on input line 106.
-
-[1{C:/Users/muhammadoginh/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+ [1{C:/Users/muhammadoginh/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
  <./Gambar/gambar7.jpg>]
-
-LaTeX Warning: Citation `lubis2020optimization' on page 2 undefined on input line 148.
-
 <Gambar/gambar3.png, id=12, 202.7575pt x 250.9375pt>
 File: Gambar/gambar3.png Graphic file (type png)
 <use Gambar/gambar3.png>
 Package pdftex.def Info: Gambar/gambar3.png  used on input line 151.
 (pdftex.def)             Requested size: 206.39685pt x 255.44742pt.
-
-LaTeX Warning: Citation `hasan' on page 2 undefined on input line 159.
-
-
-LaTeX Warning: Citation `inproceedings' on page 2 undefined on input line 180.
-
-[2 <./Gambar/gambar1.png> <./Gambar/gambar3.png>]
+ [2 <./Gambar/gambar1.png> <./Gambar/gambar3.png>]
 <Gambar/gambar2.png, id=23, 417.56pt x 492.84125pt>
 File: Gambar/gambar2.png Graphic file (type png)
 <use Gambar/gambar2.png>
 Package pdftex.def Info: Gambar/gambar2.png  used on input line 184.
 (pdftex.def)             Requested size: 206.39685pt x 243.60747pt.
-
-
-LaTeX Warning: Citation `zhang' on page 3 undefined on input line 194.
-
 <Gambar/gambar4.png, id=24, 569.12625pt x 346.29375pt>
 File: Gambar/gambar4.png Graphic file (type png)
 <use Gambar/gambar4.png>
@@ -370,7 +353,7 @@ File: Gambar/gambar5.png Graphic file (type png)
 <use Gambar/gambar5.png>
 Package pdftex.def Info: Gambar/gambar5.png  used on input line 227.
 (pdftex.def)             Requested size: 206.39685pt x 222.6534pt.
-[3 <./Gambar/gambar2.png (PNG copy)> <./Gambar/gambar4.png> <./Gambar/gambar6.jpg>]
+ [3 <./Gambar/gambar2.png (PNG copy)> <./Gambar/gambar4.png> <./Gambar/gambar6.jpg>]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 247.
  (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -380,21 +363,7 @@ File: Gambar/gambar8.png Graphic file (type png)
 <use Gambar/gambar8.png>
 Package pdftex.def Info: Gambar/gambar8.png  used on input line 273.
 (pdftex.def)             Requested size: 206.39685pt x 92.61078pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 304--306
-[]\OT1/ptm/m/n/10 [3] https://informatikalogi.com/algoritma-k-nn-k-nearest-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 304--306
-\OT1/ptm/m/n/10 neighbor/ https://medium.com/@samsudiney/penjelasan-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
-[]\OT1/ptm/m/n/10 [8] https://medium.com/@samsudiney/penjelasan-
- []
-
+ (Tugas 6.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -406,21 +375,17 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4 <./Gambar/gambar5.png> <./Gambar/gambar8.png (PNG copy)>] (Tugas 6.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[4 <./Gambar/gambar5.png> <./Gambar/gambar8.png (PNG copy)>] (Tugas 6.aux) ) 
 Here is how much of TeX's memory you used:
- 5245 strings out of 479334
- 77280 string characters out of 2866937
- 398265 words of memory out of 3000000
- 22599 multiletter control sequences out of 15000+200000
- 439524 words of font info for 98 fonts, out of 3000000 for 9000
+ 5255 strings out of 479334
+ 77540 string characters out of 2866937
+ 398222 words of memory out of 3000000
+ 22607 multiletter control sequences out of 15000+200000
+ 438417 words of font info for 97 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,8n,78p,856b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Tugas 6.pdf" (4 pages, 315584 bytes).
+Output written on "Tugas 6.pdf" (4 pages, 313959 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
