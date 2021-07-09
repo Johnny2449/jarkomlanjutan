@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.2)  9 JUL 2021 17:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.2)  9 JUL 2021 18:09
 entering extended mode
 **"d:/ITEBA/Kuliah/TK3406 Jaringan Komputer Lanjut (Reg)/rubrik penilaian/Tugas 6/Johnny2449/jarkomlanjutan/tugas 6/Tugas 6.tex"
 (d:/ITEBA/Kuliah/TK3406 Jaringan Komputer Lanjut (Reg)/rubrik penilaian/Tugas 6/Johnny2449/jarkomlanjutan/tugas 6/Tugas 6.tex
@@ -214,157 +214,184 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+ (C:\Program Files\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count276
+\U@D=\dimen173
+\l@babelnohyphens=\language79
+ (C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count277
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Program Files\MiKTeX\tex/latex/babel-indonesian\bahasa.ldf
+Language: bahasa 2017/02/15 v1.0m Bahasa Indonesia support from the babel system
+ (C:\Program Files\MiKTeX\tex/latex/babel-indonesian\indonesian.ldf
+Language: indonesian 2017/02/15 v1.0m Bahasa Indonesia support from the babel system
+))) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count276
+\l__color_backend_stack_int=\count278
 \l__pdf_internal_box=\box51
 ) (Tugas 6.aux)
 \openout1 = `"Tugas 6.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 -- Lines per column: 56 (exact).
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count277
-\scratchdimen=\dimen173
+\scratchcounter=\count279
+\scratchdimen=\dimen174
 \scratchbox=\box52
-\nofMPsegments=\count278
-\nofMParguments=\count279
+\nofMPsegments=\count280
+\nofMParguments=\count281
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count280
-\MPscratchDim=\dimen174
-\MPnumerator=\count281
-\makeMPintoPDFobject=\count282
+\MPscratchCnt=\count282
+\MPscratchDim=\dimen175
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
 \everyMPtoPDFconversion=\toks23
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Program Files\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 26.
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 30.
  (C:\Program Files\MiKTeX\tex/latex/psnfss\omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
 <Gambar/gambar7.jpg, id=1, 259.97125pt x 195.73125pt>
 File: Gambar/gambar7.jpg Graphic file (type jpg)
 <use Gambar/gambar7.jpg>
-Package pdftex.def Info: Gambar/gambar7.jpg  used on input line 74.
+Package pdftex.def Info: Gambar/gambar7.jpg  used on input line 76.
 (pdftex.def)             Requested size: 206.39685pt x 155.39354pt.
 <Gambar/gambar1.png, id=2, 853.1875pt x 754.82pt>
 File: Gambar/gambar1.png Graphic file (type png)
 <use Gambar/gambar1.png>
-Package pdftex.def Info: Gambar/gambar1.png  used on input line 95.
+Package pdftex.def Info: Gambar/gambar1.png  used on input line 97.
 (pdftex.def)             Requested size: 206.39685pt x 182.6002pt.
 
 
-LaTeX Warning: Citation `nurhadi2017aplikasi' on page 1 undefined on input line 104.
+LaTeX Warning: Citation `nurhadi2017aplikasi' on page 1 undefined on input line 106.
 
 [1{C:/Users/muhammadoginh/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
  <./Gambar/gambar7.jpg>]
-Underfull \hbox (badness 4024) in paragraph at lines 133--136
-\OT1/ptm/m/n/10 kuadrat den-gan men-jum-lahkan perbe-daan \OT1/ptm/m/it/10 ab-so-lute \OT1/ptm/m/n/10 dari
- []
 
-
-Underfull \hbox (badness 2790) in paragraph at lines 137--139
-\OT1/ptm/m/it/10 Minkwoski Dis-tance \OT1/ptm/m/n/10 adalah metrik dalam ru-ang vek-tor
- []
-
-
-LaTeX Warning: Citation `lubis2020optimization' on page 2 undefined on input line 146.
+LaTeX Warning: Citation `lubis2020optimization' on page 2 undefined on input line 148.
 
 <Gambar/gambar3.png, id=12, 202.7575pt x 250.9375pt>
 File: Gambar/gambar3.png Graphic file (type png)
 <use Gambar/gambar3.png>
-Package pdftex.def Info: Gambar/gambar3.png  used on input line 149.
+Package pdftex.def Info: Gambar/gambar3.png  used on input line 151.
 (pdftex.def)             Requested size: 206.39685pt x 255.44742pt.
 
-LaTeX Warning: Citation `hasan' on page 2 undefined on input line 157.
+LaTeX Warning: Citation `hasan' on page 2 undefined on input line 159.
 
 
-LaTeX Warning: Citation `inproceedings' on page 2 undefined on input line 178.
+LaTeX Warning: Citation `inproceedings' on page 2 undefined on input line 180.
 
 [2 <./Gambar/gambar1.png> <./Gambar/gambar3.png>]
 <Gambar/gambar2.png, id=23, 417.56pt x 492.84125pt>
 File: Gambar/gambar2.png Graphic file (type png)
 <use Gambar/gambar2.png>
-Package pdftex.def Info: Gambar/gambar2.png  used on input line 182.
+Package pdftex.def Info: Gambar/gambar2.png  used on input line 184.
 (pdftex.def)             Requested size: 206.39685pt x 243.60747pt.
 
 
-LaTeX Warning: Citation `zhang' on page 3 undefined on input line 192.
-
-
-Underfull \hbox (badness 2521) in paragraph at lines 192--193
-[]\OT1/ptm/m/n/10 Flowchart dari proses pe-mod-e-lan al-go-ritma \OT1/ptm/m/it/10 En-sem-ble
- []
+LaTeX Warning: Citation `zhang' on page 3 undefined on input line 194.
 
 <Gambar/gambar4.png, id=24, 569.12625pt x 346.29375pt>
 File: Gambar/gambar4.png Graphic file (type png)
 <use Gambar/gambar4.png>
-Package pdftex.def Info: Gambar/gambar4.png  used on input line 196.
+Package pdftex.def Info: Gambar/gambar4.png  used on input line 198.
 (pdftex.def)             Requested size: 206.39685pt x 125.58507pt.
 <Gambar/gambar6.jpg, id=25, 200.75pt x 164.615pt>
 File: Gambar/gambar6.jpg Graphic file (type jpg)
 <use Gambar/gambar6.jpg>
-Package pdftex.def Info: Gambar/gambar6.jpg  used on input line 215.
+Package pdftex.def Info: Gambar/gambar6.jpg  used on input line 217.
 (pdftex.def)             Requested size: 206.39685pt x 169.25642pt.
 <Gambar/gambar5.png, id=26, 216.81pt x 233.87375pt>
 File: Gambar/gambar5.png Graphic file (type png)
 <use Gambar/gambar5.png>
-Package pdftex.def Info: Gambar/gambar5.png  used on input line 225.
+Package pdftex.def Info: Gambar/gambar5.png  used on input line 227.
 (pdftex.def)             Requested size: 206.39685pt x 222.6534pt.
 [3 <./Gambar/gambar2.png (PNG copy)> <./Gambar/gambar4.png> <./Gambar/gambar6.jpg>]
-Underfull \hbox (badness 1675) in paragraph at lines 237--244
-[]\OT1/ptm/m/n/10 Algoritma K-Nearest Neigh-bor (K-NN) adalah se-buah
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 245.
-(C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 247.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 <Gambar/gambar8.png, id=30, 733.74126pt x 329.23pt>
 File: Gambar/gambar8.png Graphic file (type png)
 <use Gambar/gambar8.png>
-Package pdftex.def Info: Gambar/gambar8.png  used on input line 271.
+Package pdftex.def Info: Gambar/gambar8.png  used on input line 273.
 (pdftex.def)             Requested size: 206.39685pt x 92.61078pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
+Underfull \hbox (badness 10000) in paragraph at lines 304--306
 []\OT1/ptm/m/n/10 [3] https://informatikalogi.com/algoritma-k-nn-k-nearest-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
+Underfull \hbox (badness 10000) in paragraph at lines 304--306
 \OT1/ptm/m/n/10 neighbor/ https://medium.com/@samsudiney/penjelasan-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
 []\OT1/ptm/m/n/10 [8] https://medium.com/@samsudiney/penjelasan-
  []
 
@@ -385,15 +412,15 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4000 strings out of 479334
- 58273 string characters out of 2866937
- 359317 words of memory out of 3000000
- 21408 multiletter control sequences out of 15000+200000
+ 5245 strings out of 479334
+ 77280 string characters out of 2866937
+ 398265 words of memory out of 3000000
+ 22599 multiletter control sequences out of 15000+200000
  439524 words of font info for 98 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,74p,856b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 72i,8n,78p,856b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Tugas 6.pdf" (4 pages, 315809 bytes).
+Output written on "Tugas 6.pdf" (4 pages, 315584 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
